@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Cocaine Model",
+  "base_artist": "ZHU",
+  "createdAt": "2025-12-09T13:09:41.688960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cocaine Model",
+      "artist": "Zhu",
+      "has_synced": true,
+      "path": "select/01_Cocaine_Model_Zhu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cocaine Model",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/02_Cocaine_Model_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cocaine Model",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/03_Cocaine_Model_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cocaine Model",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/04_Cocaine_Model_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ZHU - Cocaine Model [OFFICIAL VIDEO HD] [q1HW6DdBCKw]",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/05_ZHU_-_Cocaine_Model_[OFFICIAL_VIDEO_HD]_[q1HW6DdBCKw]_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ZHU - Cocaine Model",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/06_ZHU_-_Cocaine_Model_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cocaine Model",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/07_Cocaine_Model_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cocaine Model",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/08_Cocaine_Model_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cocaine Model (Original Mix)",
+      "artist": "ZHU",
+      "has_synced": false,
+      "path": "select/09_Cocaine_Model_(Original_Mix)_ZHU.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cocaine Model",
+      "artist": "ZHU",
+      "has_synced": false,
+      "path": "select/pl_01_Cocaine_Model_ZHU.txt"
+    }
+  ]
+}
